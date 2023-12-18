@@ -4,9 +4,9 @@
 
 ## Instructions:
 
-1)Please ensure that you are taking the assessment alone in an empty room with good internet connectivity.
+1) Please ensure that you are taking the assessment alone in an empty room with good internet connectivity.
 
-Internet Speedtest Link: https://www.speedtest.net/
+   Internet Speedtest Link: https://www.speedtest.net/
 
 2) Fork the github repo into your personal Github account and take a clone into your local system.
 
