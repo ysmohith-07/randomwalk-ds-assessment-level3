@@ -26,3 +26,22 @@
 
 ## Questions:
 
+Provided are 3 CSV files **books.csv**, **book_tags.csv** and **ratings.csv** for the assessment.
+
+ Candidate must create a jupyter notebook which processes the data provided in the CSV files to solve the following questions within the time limit provided.
+
+
+1) How many books do not have an original title [books.csv]?
+
+2) How many unique books are present in the dataset ? Evaluate based on the 'book_id' after removing records containing null values for original_title column in [books.csv] and corresponding records in [book_tags.csv] and [ratings.csv]
+
+3) How many unique users are present in the dataset [ratings.csv] ?
+
+4) How many unique tags are there in the dataset [book_tags.csv] ?
+
+5) Which tag_id  is the most frequently used ie. mapped with the highest number of books [book_tags.csv]  ? 
+(In case of more than one tag, mention the tag id with the least numerical value)’.
+
+6) Which book (title) has the most number of counts of tags given by the user [book_tags.csv,books.csv] .
+
+7) Plot a bar chart with top 20 unique tags in descending order of ‘user records’ (the number of users tagged the given tag_id with the goodreads_book_id) [book_tags.csv]
